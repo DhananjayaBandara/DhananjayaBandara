@@ -1,11 +1,11 @@
-[![MasterHead](https://quixy.com/wp-content/uploads/2023/02/MicrosoftTeams-image-19.png)
+![MasterHead](https://quixy.com/wp-content/uploads/2023/02/MicrosoftTeams-image-19.png)
 <h1 align="center">Hi 👋, I'm Dhananjaya Bandara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">An NLP, Deep Learning, and Legal Tech enthusiast from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjayabandara&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayabandara" /> </p>
 
-- 🌱 I’m currently learning **Java,C++,Matlab**
+- 🌱 I’m currently learning **Java,C++,Matlab,C,Python**
 
 - 📫 How to reach me **prasannadananjaya7@gmail.com**
 
